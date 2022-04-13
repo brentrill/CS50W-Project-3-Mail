@@ -1,0 +1,23 @@
+textarea {
+  min-height: 400px;
+}
+
+.body {
+  background-color: black;
+}
+
+.emails-unread, .emails-read {
+  background: white;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 2px;
+}
+
+.emails-read {
+  background: #D3D3D3;
+}
+
+/*# sourceMappingURL=styles.css.map */
